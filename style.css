@@ -1,0 +1,36 @@
+
+body {
+    
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+h1 {
+    font-family: Bernard MT Condensed;
+    font-size: 200px;
+    text-align: center;
+    height: 300px;
+}
+
+h2 {
+    font-family: Brush Script MT;
+    font-size: 100px;
+
+}
+
+p {
+    font-family: Arial;
+    font-size: 40px;
+    width: 700px;
+    text-align: justify;
+    height: 600px;
+    padding-left: 1300px;
+}
+
+ul {
+    font-family: arial;
+    font-size: 35px;
+}
